@@ -4,10 +4,6 @@
 
 
 
-\# Recruit — TryHackMe Writeup
-
-
-
 \*\*Category:\*\* Web Exploitation, SQL Injection, LFI  
 
 \*\*Difficulty:\*\* Easy/Medium  
